@@ -4,7 +4,7 @@ Spatial Analysis Tutorial Series
 
 ___This workshop series is sponsored by [Iowa Social Science Research Center](http://ppc.uiowa.edu/isrc) at the University of Iowa. You can also check out other interesting workshops [here](http://ppc.uiowa.edu/isrc/workshops).___
 
-This is a public repository with introductory tutorials in different aspects of Stata programming. Please star us if you think it is useful: 
+This is a public repository with tutorials in different aspects of spatial analysis using GeoDa and ArcMap. Please star us if you think it is useful: 
 [![GitHub stars](https://img.shields.io/github/stars/iowa-social-science-research-center/Spatial-analysis-Workshops.svg?style=social&logo=github&label=Stars)](https://github.com/iowa-social-science-research-center/Spatial-analysis-Workshops)
 
 
