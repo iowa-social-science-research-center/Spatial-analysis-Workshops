@@ -15,6 +15,7 @@ This is a public repository with tutorials in different aspects of spatial analy
 _Last updated 03-28-2021_
 
 - [Bayesian Disease Mapping with R and OpenBUGS](https://github.com/iowa-social-science-research-center/Spatial-analysis-Workshops/blob/master/SLIDES/BAYES_MAPPING_SPRING_2021.pdf)
+  - Link for data: https://geodacenter.github.io/data-and-lab/houston/
 - [Geographic Data Visualization Using ArcMap](https://github.com/iowa-social-science-research-center/Spatial-analysis-Workshops/blob/master/SLIDES/GEOVIS_2019_02_13.pdf)
 - [Spatial Analysis with GeoDa and ArcMap](https://github.com/iowa-social-science-research-center/Spatial-analysis-Workshops/blob/master/SLIDES/INTRO_SPATIAL_ANALYSIS_02212019.pdf)
 - [Data files](https://github.com/iowa-social-science-research-center/Spatial-analysis-Workshops/tree/master/DATA)
